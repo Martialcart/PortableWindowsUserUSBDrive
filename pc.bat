@@ -27,6 +27,7 @@ set HOMEPATH=\Home
 set LOCALAPPDATA=%drive%Appdata\Local
 set TEMP=%LOCALAPPDATA%Temp
 set TMP=%TEMP%
+
 :: Customice look
 title jan's portable PC
 
