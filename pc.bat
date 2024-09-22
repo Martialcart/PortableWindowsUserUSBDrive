@@ -43,4 +43,3 @@ rmdir /s /q Z:\ScoopCache
 ::delete virtual drives
 subst /D Z:
 subst /D V:
-
