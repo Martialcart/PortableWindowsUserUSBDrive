@@ -9,6 +9,8 @@ windows 10 +<br>
 run pc.bat from the the root folder of usb drive you want to install on<br>
 <br>
 type following commands in the shell that opens:<br>
+mkdir Home<br>
+mkdir Appdata<br>
 start powershell<br>
 irm get.scoop.sh -outfile 'install.ps1'<br>
 .\install.ps1 -ScoopDir 'V:\Scoop' -ScoopGlobalDir 'V:\Scoop\apps'<br>
