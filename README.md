@@ -16,3 +16,10 @@ irm get.scoop.sh -outfile 'install.ps1'<br>
 .\install.ps1 -ScoopDir 'V:\Scoop' -ScoopGlobalDir 'V:\Scoop\apps'<br>
 <br>
 <br>
+troubleshooting:<br>
+<br>
+powershell doesn't allow the scoop innstalation script:<br>
+you will need to run powershell as admin and allow scripts with the following command<br>
+set-executionpolicy remotesigned<br>
+<br>
+[scoop advanced installation](https://github.com/ScoopInstaller/Install)
