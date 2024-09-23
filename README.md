@@ -1,9 +1,7 @@
 An experimental portable usb user shell. Run it's software on any windows 10 + computer<br>
 <br>
 Modified Scoop install. New drive letter doesn't break shims/paths.<br>
-<br>
-<br>
-Install new software with Scoop<br>
+
 <br>
 <br>
 Installation<br>
