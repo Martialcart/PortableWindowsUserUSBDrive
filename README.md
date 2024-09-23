@@ -1,7 +1,7 @@
 An experimental portable usb user shell. Run it's software on any windows 10 + computer<br>
 <br>
 Modified Scoop install. New drive letter doesn't break shims/paths.<br>
-
+Dependent on using the shell from pc.bat.<br>
 <br>
 <br>
 Installation<br>
