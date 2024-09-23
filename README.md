@@ -1,14 +1,14 @@
-an experimental portable usb user shell. Run it's software on any windows 10 + computer
+An experimental portable usb user shell. Run it's software on any windows 10 + computer
 <br>
-install new software with Scoop<br>
+Install new software with Scoop<br>
 <br>
 <br>
 Installation<br>
 windows 10 +<br>
 <br>
-run pc.bat from the the root folder of usb drive you want to install on<br>
+Run pc.bat from the the root folder of usb drive you want to install on<br>
 <br>
-type following commands in the shell that opens:<br>
+Type following commands in the shell that opens:<br>
 mkdir Home<br>
 mkdir Appdata<br>
 start powershell<br>
