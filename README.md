@@ -1,4 +1,4 @@
-an experimental portable usb user shell you can run on any windows 10 + computer
+an experimental portable usb user shell. Run it's software on any windows 10 + computer
 <br>
 install new software with Scoop<br>
 <br>
