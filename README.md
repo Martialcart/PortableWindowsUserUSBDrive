@@ -1,8 +1,7 @@
 An experimental portable usb user shell. Run it's software on any windows 10 + computer<br>
 <br>
-A Scoop install will work untill the usb drive swap drive letter connecting to a different pc, then all the shims/paths point to the wrong drive.<br>
-The main hack is creating virtual drives to make sure the drive letter stays the same.
-
+A normal Scoop install will work untill the usb drive swap drive letter when connecting to a different pc, then all the shims/paths point to the wrong drive.<br>
+<br>
 <br>
 Install new software with Scoop<br>
 <br>
